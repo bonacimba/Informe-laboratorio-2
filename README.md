@@ -30,16 +30,48 @@ Despues pondremos todas las resistencias a una sola unidad
 **TRAYECTORIA 1**
 En la trayectoria uno se encuentran los siguientes elementos
 
-En este caso tomaremos a la trayectoria I1 como principal y la I2 como secuendaria por que exite una resistencia en el medio de estas dos por lo cual restaremosa la principal menos la secuandaria y luego la multiplicaremos por la resistencia para asi obtener el voltaje.
+![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/Imagenes%20BN/2.1.png)
 
+En este caso tomaremos a la trayectoria I1 como principal y la I2 como secuendaria por que exite una resistencia en el medio de estas dos por lo cual restaremosa la principal menos la secuandaria y luego la multiplicaremos por la resistencia para asi obtener el voltaje.
+![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/Imagenes%20BN/2.2.png)
+![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/Imagenes%20BN/2.3.png)
 
 Y con esto obtendremos la primera ecuación
+![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/Imagenes%20BN/2.4.png)
 
 **TRAYECTORIA 2**
 
-En la trayectoria uno se encuentran los siguientes elementos
+En la trayectoria dos se encuentran los siguientes elementos
 
-En este caso tomaremos a la trayectoria I2 como principal y la I3 como secuendaria por que exite una resistencia en el medio de estas dos por lo cual restaremosa la principal menos la secuandaria y luego la multiplicaremos por la resistencia para asi obtener el voltaje.
+![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/Imagenes%20BN/3.1.png)
+
+En este caso tomaremos a la trayectoria I2 como principal y la I3 como secuendaria por que exite una resistencia en el medio de estas dos, ademas tiene otra resistencia entrelazada en este caso sera la I2 la principal menos I1 que es la secundaria  y luego la multiplicaremos por la resistencia para asi obtener el voltaje
+![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/Imagenes%20BN/3.2.png)
+
+Y asi obtenemos la segunda  ecuación 
+![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/Imagenes%20BN/3.3.png)
+
+En la trayectoria tres se encuentran los siguientes elementos
+
+![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/Imagenes%20BN/4.1.png)
+
+En este caso tomaremos a la trayectoria I3 como principal y la I2 como secuendaria por que exite una resistencia en el medio de estas dos por lo cual restaremosa la principal menos la secuandaria y luego la multiplicaremos por la resistencia para asi obtener el voltaje.
+![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/Imagenes%20BN/4.2.png)
+
+
+Y con esto obtendremos la tercera ecuación
+![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/Imagenes%20BN/4.3.png)
+
+Con estas ecuaciones, las ubicaremos en una aplicación para calcular los sistemas de ecuaciones
+![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/Imagenes%20BN/5.png)
+![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/Imagenes%20BN/6.png)
+![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/Imagenes%20BN/7.png)
+
+Obteniendo los siguientes resultados
+![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/Imagenes%20BN/8.png)
+
+y por ultimo transformaremos a una misma unidad.
+![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/Imagenes%20BN/9.png)
 
 
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
