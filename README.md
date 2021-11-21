@@ -44,6 +44,8 @@ En este caso tomaremos a la trayectoria I1 como principal y la I2 como secuendar
 ![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/Imagenes%20BN/2.3.png)
 
 Y con esto obtendremos la primera ecuación
+
+
 ![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/Imagenes%20BN/2.4.png)
 
 **TRAYECTORIA 2**
