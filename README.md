@@ -6,6 +6,9 @@
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
+
+
+
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
  
  **Cálculos del porcentaje de error**
