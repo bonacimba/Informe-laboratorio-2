@@ -18,6 +18,20 @@ Demostrar el conocimiento adquirido en clases sobre los metedos de mallas, ley d
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
+Lo que haremos para resolver este circuito es:
+
+1. Trazaremos las trayectorias y los signos de los componentes para guiarnos de mejor manera
+
+![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/Imagenes%20BN/1.png)
+
+Despues pondremos todas las resistencias a una sola unidad
+![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/Imagenes%20BN/2.png)
+
+**TRAYECTORIA 1**
+En la trayectoria uno se encuentran los siguientes elementos
+
+![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/Imagenes%20BN/3.png)
+y con esto obtendremos la primera ecuación
 
 
 
