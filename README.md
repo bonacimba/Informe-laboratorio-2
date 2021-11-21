@@ -30,9 +30,16 @@ Despues pondremos todas las resistencias a una sola unidad
 **TRAYECTORIA 1**
 En la trayectoria uno se encuentran los siguientes elementos
 
-![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/Imagenes%20BN/3.png)
-y con esto obtendremos la primera ecuación
+En este caso tomaremos a la trayectoria I1 como principal y la I2 como secuendaria por que exite una resistencia en el medio de estas dos por lo cual restaremosa la principal menos la secuandaria y luego la multiplicaremos por la resistencia para asi obtener el voltaje.
 
+
+Y con esto obtendremos la primera ecuación
+
+**TRAYECTORIA 2**
+
+En la trayectoria uno se encuentran los siguientes elementos
+
+En este caso tomaremos a la trayectoria I2 como principal y la I3 como secuendaria por que exite una resistencia en el medio de estas dos por lo cual restaremosa la principal menos la secuandaria y luego la multiplicaremos por la resistencia para asi obtener el voltaje.
 
 
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
