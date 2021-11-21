@@ -7,11 +7,11 @@ Demostrar el conocimiento adquirido en clases sobre los metedos de mallas, ley d
 
 **-Especificos**
 
-Construir un circuito eléctrico con la herramienta Tinkercad
+   1.Construir un circuito eléctrico con la herramienta Tinkercad
 
-Relacionar los metodos de mallas con las leyes de kirchhoff y ley de ohm
+   2.Relacionar los metodos de mallas con las leyes de kirchhoff y ley de ohm
 
-Comparar los resultados obtenidos con los valores calculados.
+   3.Comparar los resultados obtenidos con los valores calculados.
 
 
 # 2. MARCO TEÓRICO
@@ -30,5 +30,12 @@ Para calcular el porcentaje de error de los valores obtenidos se utiliza la sigu
 # 5. VIDEO
 
 # 6. CONCLUSIONES
+
+Los simuladores tanto como proteus y Tinkercad nos ayudaron a relacionar y practicar todo lo dicho anteriormente por que al usarlos asimilamos la teoria de las leyes y componentes del cicuito
+
+Gracias a toda la informacion reunida anteriormete, podemos interpretar que podemos utilizar diferentes metodos y llegar a la misma soluciom.
+
+
+Tal y como hemos podido comprobar los valores analizados y calculados por nosotros mismos en este circuito son identicos a los valores medidos en el simullador y en el Tinkercad, pero con su debido error de calculo pero este es minimo.
 
 # 7. BIBLIOGRAFÍA
