@@ -102,8 +102,13 @@ Obteniendo los siguientes resultados
 
 y por ultimo transformaremos a una misma unidad.
 
-
 ![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/Imagenes%20BN/9.png)
+
+| MALLA | RESULTADOS ANALÍTICOS | RESULTADOS EXPERIMENTALES| RESULTADOS SIMULADOS |
+| ------------- | ------------- | ------------- | ------------- |
+| 1 |   |  |  |
+| 2 |  |  |  |
+| 3 |  |  |  |
 
 **SIMULACIÓN EN PROTEUS**
 
