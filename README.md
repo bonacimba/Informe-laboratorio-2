@@ -105,6 +105,11 @@ y por ultimo transformaremos a una misma unidad.
 
 ![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/Imagenes%20BN/9.png)
 
+**Simulación en Proteus**
+
+![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/IMGBV/1.png)
+
+1[](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/IMGBV/2.png)
 
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
  
