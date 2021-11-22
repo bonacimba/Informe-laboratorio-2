@@ -16,6 +16,8 @@ Demostrar el conocimiento adquirido en clases sobre los metedos de mallas, ley d
 
 # 2. MARCO TEÓRICO
 
+![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/IMGBV/01.png)
+
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 Lo que haremos para resolver este circuito es:
