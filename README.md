@@ -126,9 +126,12 @@ y por ultimo transformaremos a una misma unidad.
 | ------------- | ------------- | ------------- | ------------- |
 | 1 | 11.5 mA | 11.5 mA | 11.5 mA |
 | 2 | 2.85 mA | 2.85 mA | 2.85 mA |
-| 3 | 0.49 mA | 0.49 mA | 0.488 mA |
+| 3 | 0.49 mA | 0.488 mA | 0.49 mA |
+
 
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+
+LOs resultados analíticos, experimentales y simulados son practicamente iguales, debido a que los programas utilizados no toman en cuenta condiciones reales o las tolerancias de las resistencias. Por tanto estaría trabajando como un sistema ideal.
  
  **Cálculos del porcentaje de error**
 
