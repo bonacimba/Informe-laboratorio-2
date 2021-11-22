@@ -104,12 +104,6 @@ y por ultimo transformaremos a una misma unidad.
 
 ![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/Imagenes%20BN/9.png)
 
-| MALLA | RESULTADOS ANALÍTICOS | RESULTADOS EXPERIMENTALES| RESULTADOS SIMULADOS |
-| ------------- | ------------- | ------------- | ------------- |
-| 1 |   |  |  |
-| 2 |  |  |  |
-| 3 |  |  |  |
-
 **SIMULACIÓN EN PROTEUS**
 
 **Circuito armado**
@@ -121,6 +115,18 @@ y por ultimo transformaremos a una misma unidad.
 ![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/IMGBV/2.png)
 
 **SIMULACIÓN EN TINKERCAD**
+
+**Circuito armado**
+
+**Toma de medidas en cada malla**
+
+**TABLA DE DATOS**
+
+| MALLA | RESULTADOS ANALÍTICOS | RESULTADOS EXPERIMENTALES| RESULTADOS SIMULADOS |
+| ------------- | ------------- | ------------- | ------------- |
+| 1 | 11.5 mA | 11.5 mA | 11.5 mA |
+| 2 | 2.85 mA | 2.85 mA | 2.85 mA |
+| 3 | 0.49 mA | 0.49 mA | 0.488 mA |
 
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
  
