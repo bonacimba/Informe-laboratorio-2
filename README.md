@@ -105,7 +105,7 @@ y por ultimo transformaremos a una misma unidad.
 
 ![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/Imagenes%20BN/9.png)
 
-**Simulación en Proteus**
+**SIMULACIÓN EN PROTEUS**
 
 **Circuito armado**
 
@@ -115,7 +115,7 @@ y por ultimo transformaremos a una misma unidad.
 
 ![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/IMGBV/2.png)
 
-**Simulacón en Tinkercad**
+**SIMULACIÓN EN TINKERCAD**
 
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
  
