@@ -107,9 +107,15 @@ y por ultimo transformaremos a una misma unidad.
 
 **Simulación en Proteus**
 
+**Circuito armado**
+
 ![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/IMGBV/1.png)
 
+**Toma de medidas en cada malla**
+
 ![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/IMGBV/2.png)
+
+**Simulacón en Tinkercad**
 
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
  
