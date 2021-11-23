@@ -147,15 +147,15 @@ Para calcular el porcentaje de error de los valores obtenidos se utiliza la sigu
 
 | MALLA | RESULTADOS ANALÍTICOS | RESULTADOS EXPERIMENTALES| % ERROR|
 | ------------- | ------------- | ------------- | ------------- |
-| 1 | 11.5 mA | 11.5 mA |  |
-| 2 | 2.85 mA | 2.85 mA |  |
-| 3 | 0.49 mA | 0.488 mA |  |
+| 1 | 11.5 mA | 11.5 mA | 0 % |
+| 2 | 2.85 mA | 2.85 mA | 0 % |
+| 3 | 0.49 mA | 0.488 mA | 0.41 % |
 
 | MALLA | RESULTADOS ANALÍTICOS | RESULTADOS SIMULADOS| % ERROR |
 | ------------- | ------------- | ------------- | ------------- |
-| 1 | 11.5 mA | 11.5 mA |  |
-| 2 | 2.85 mA | 2.85 mA |  |
-| 3 | 0.49 mA | 0.49 mA |  |
+| 1 | 11.5 mA | 11.5 mA | 0 % |
+| 2 | 2.85 mA | 2.85 mA | 0 % |
+| 3 | 0.49 mA | 0.49 mA | 0 % |
 
 Como se observa el porcentaje de error es practicamente de 0% devido a lo ya antes mencionado.
 
