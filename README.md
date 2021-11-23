@@ -24,6 +24,8 @@ Demostrar el conocimiento adquirido en clases sobre los metedos de mallas, ley d
 
 ![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/IMGBV/3.png)
 
+![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/IMGBV/5.png)
+
 Lo que haremos para resolver este circuito es:
 
 1. Trazaremos las trayectorias y los signos de los componentes para guiarnos de mejor manera
