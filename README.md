@@ -165,7 +165,7 @@ Para calcular el porcentaje de error de los valores obtenidos se utiliza la sigu
 
 ![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/Img/lab2_9.JPG)
 
-Como se observa el porcentaje de error es practicamente de 0% devido a lo ya antes mencionado.
+Como se observa el porcentaje de error es practicamente de 0% debido a lo ya antes mencionado.
 
 # 5. VIDEO
 
