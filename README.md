@@ -163,7 +163,7 @@ Como se observa el porcentaje de error es practicamente de 0% devido a lo ya ant
 
 Los simuladores tanto como proteus y Tinkercad nos ayudaron a relacionar y practicar todo lo dicho anteriormente por que al usarlos asimilamos la teoria de las leyes y componentes del cicuito
 
-Gracias a toda la informacion reunida anteriormete, podemos interpretar que podemos utilizar diferentes metodos y llegar a la misma soluciom.
+Gracias a toda la informacion reunida anteriormete, podemos interpretar que podemos utilizar diferentes metodos y llegar a la misma solucion.
 
 
 Tal y como hemos podido comprobar los valores analizados y calculados por nosotros mismos en este circuito son identicos a los valores medidos en el simullador y en el Tinkercad, pero con su debido error de calculo pero este es minimo.
