@@ -155,7 +155,7 @@ Para calcular el porcentaje de error de los valores obtenidos se utiliza la sigu
 | 2 | 2.85 mA | 2.85 mA | 0 % |
 | 3 | 0.49 mA | 0.488 mA | 0.41 % |
 
-!()[https://github.com/bonacimba/Informe-laboratorio-2/blob/main/Img/lab2_8.JPG]
+![](https://raw.githubusercontent.com/bonacimba/Informe-laboratorio-2/main/Img/lab2_8.JPG)
 
 | MALLA | RESULTADOS ANALÍTICOS | RESULTADOS SIMULADOS| % ERROR |
 | ------------- | ------------- | ------------- | ------------- |
@@ -163,7 +163,7 @@ Para calcular el porcentaje de error de los valores obtenidos se utiliza la sigu
 | 2 | 2.85 mA | 2.85 mA | 0 % |
 | 3 | 0.49 mA | 0.49 mA | 0 % |
 
-!()[https://github.com/bonacimba/Informe-laboratorio-2/blob/main/Img/lab2_9.JPG]
+![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/Img/lab2_9.JPG)
 
 Como se observa el porcentaje de error es practicamente de 0% devido a lo ya antes mencionado.
 
