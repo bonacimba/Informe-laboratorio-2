@@ -169,3 +169,9 @@ Gracias a toda la informacion reunida anteriormete, podemos interpretar que pode
 Tal y como hemos podido comprobar los valores analizados y calculados por nosotros mismos en este circuito son identicos a los valores medidos en el simullador y en el Tinkercad, pero con su debido error de calculo pero este es minimo.
 
 # 7. BIBLIOGRAFÍA
+
+Capítulo 21: Análisis de Mallas. (2019, 8 abril). Análisis de Circuitos En Ingeniería. Recuperado 22 de noviembre de 2021, de https://analisisdecircuitos1.wordpress.com/parte-1-circuitos-resistivos-cap-21-a-30-en-construccion/capitulo-21-analisis-de-mallas/
+
+colaboradores de Wikipedia. (2020, 14 octubre). Análisis de mallas. Wikipedia, la enciclopedia libre. Recuperado 22 de noviembre de 2021, de https://es.wikipedia.org/wiki/An%C3%A1lisis_de_mallas
+
+Ley de Kirchhoff: Análisis de mallas. (2020, 10 abril). HETPRO/TUTORIALES. Recuperado 22 de noviembre de 2021, de https://hetpro-store.com/TUTORIALES/ley-de-kirchhoff-analisis-de-mallas/
