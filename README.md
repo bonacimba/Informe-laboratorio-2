@@ -124,7 +124,11 @@ y por ultimo transformaremos a una misma unidad.
 
 **Circuito armado**
 
+![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/Img/lab2_5.JPG)
+
 **Toma de medidas en cada malla**
+
+![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/Img/lab2_7.JPG)
 
 **TABLA DE DATOS**
 
