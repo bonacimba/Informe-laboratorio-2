@@ -20,6 +20,10 @@ Demostrar el conocimiento adquirido en clases sobre los metedos de mallas, ley d
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
+**MATERIALES UTILIZADOS**
+
+![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/IMGBV/3.png)
+
 Lo que haremos para resolver este circuito es:
 
 1. Trazaremos las trayectorias y los signos de los componentes para guiarnos de mejor manera
@@ -136,6 +140,22 @@ Los resultados analíticos, experimentales y simulados son practicamente iguales
  **Cálculos del porcentaje de error**
 
 Para calcular el porcentaje de error de los valores obtenidos se utiliza la siguiente formula:
+
+![](https://github.com/bonacimba/Informe-laboratorio-2/blob/main/IMGBV/4.png)
+
+| MALLA | RESULTADOS ANALÍTICOS | RESULTADOS EXPERIMENTALES| % ERROR|
+| ------------- | ------------- | ------------- | ------------- |
+| 1 | 11.5 mA | 11.5 mA |  |
+| 2 | 2.85 mA | 2.85 mA |  |
+| 3 | 0.49 mA | 0.488 mA |  |
+
+| MALLA | RESULTADOS ANALÍTICOS | RESULTADOS SIMULADOS| % ERROR |
+| ------------- | ------------- | ------------- | ------------- |
+| 1 | 11.5 mA | 11.5 mA |  |
+| 2 | 2.85 mA | 2.85 mA |  |
+| 3 | 0.49 mA | 0.49 mA |  |
+
+Como se observa el porcentaje de error es practicamente de 0% devido a lo ya antes mencionado.
 
 # 5. VIDEO
 
