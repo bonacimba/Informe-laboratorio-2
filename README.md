@@ -169,6 +169,8 @@ Como se observa el porcentaje de error es practicamente de 0% debido a lo ya ant
 
 # 5. VIDEO
 
+https://youtu.be/Q-XLiwLTeyU
+
 # 6. CONCLUSIONES
 
 Los simuladores tanto como proteus y Tinkercad nos ayudaron a relacionar y practicar todo lo dicho anteriormente por que al usarlos asimilamos la teoria de las leyes y componentes del cicuito
